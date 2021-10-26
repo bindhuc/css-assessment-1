@@ -1,0 +1,17 @@
+h2{
+    color: red;
+}
+h3{
+    color: orangered;
+}
+.color{
+    color: maroon;
+}
+#inline{
+    background-color: yellow;
+  
+}
+
+.space{
+  letter-spacing: 2px;
+}
